@@ -7,7 +7,7 @@
 I'm subeom jeong, transited from financial accountant to software engineer. I'm passionate about Data Science/ ML/ AI. I'm also learning unreal engine.
 🎮. 
 
-  - 🔭 I’m currently working on thumbnail creator.
+  - 🔭 I’m currently working on Thumbnail Creator.
   - 🌱 I’m currently teaching myself computer science.
   - 💬 Ask me about Money Laundering.
 
