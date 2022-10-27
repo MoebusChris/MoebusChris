@@ -26,4 +26,5 @@ I'm subeom jeong, transited from financial accountant to software engineer. I'm 
 
 <div align="center">
   <img src="https://media.tenor.com/hp-mP0HaxhIAAAAC/its-about-sending-a-message-not-about-money.gif"></img>
+
 </div>
