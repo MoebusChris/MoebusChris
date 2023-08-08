@@ -1,15 +1,14 @@
 # Subeom Jeong 
 [![Linkedin Badge](https://img.shields.io/badge/-subeomjeong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subeomj)](https://www.linkedin.com/in/subeomj/) 
 [![Gmail Badge](https://img.shields.io/badge/-subeomjeong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subeomjeong@gmail.com)](mailto:subeomjeong@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-MoebusChris.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://MoebusChris.github.io)](https://MoebusChris.github.io)
+
 
 ## Hi, there 👋, 
-I'm subeom jeong, transited from financial accountant to software engineer. I'm passionate about Data Science/ ML/ AI. I'm also learning unreal engine.
-🎮. 
+I'm subeom jeong, financial accounting professional + full stack developer. I'm passionate about AI / Cryptocurrency / App development.
 
-  - 🔭 I’m currently working on Thumbnail Creator.
-  - 🌱 I’m currently teaching myself computer science.
-  - 💬 Ask me about Money Laundering.
+  - 🔭 I’m currently working on automation web application.
+  - 🌱 I’m currently teaching myself SwiftUI.
+  - 💬 Ask me how to pay less taxes.
 
 <br>
 <br>
@@ -21,10 +20,7 @@ I'm subeom jeong, transited from financial accountant to software engineer. I'm 
 <br>
 <br>
 
-<h3 align="center">For Greater Good</h3>
+
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/hp-mP0HaxhIAAAAC/its-about-sending-a-message-not-about-money.gif"></img>
 
-</div>
