@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-subeomjeong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subeomjeong@gmail.com)](mailto:subeomjeong@gmail.com)
 
 
- **Hello there! I'm Chris** 👋🏻
+## Hello there! I'm Chris 👋🏻
 
 I'm the person behind this GitHub profile, straddling the worlds of finance and coding with equal fervor. By day, I navigate the complexities of multinational finance as an assistant manager, and by night, I transform into a full stack developer, exploring the endless possibilities of the digital realm. My journey from crunching numbers to coding apps is a testament to the fact that with passion, you can chart your own path in the tech world, no matter where you started.
 
