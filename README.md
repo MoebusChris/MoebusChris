@@ -1,9 +1,8 @@
-# Subeom Jeong 
+# The Journey of a Finance Wizard Turned Full Stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-subeomjeong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subeomj)](https://www.linkedin.com/in/subeomj/) 
 [![Gmail Badge](https://img.shields.io/badge/-subeomjeong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subeomjeong@gmail.com)](mailto:subeomjeong@gmail.com)
 
 
-Embrace the Code: The Journey of a Finance Wizard Turned Full Stack Developer
 Hello there! 👋 I'm the person behind this GitHub profile, straddling the worlds of finance and coding with equal fervor. By day, I navigate the complexities of multinational finance as an assistant manager, and by night, I transform into a full stack developer, exploring the endless possibilities of the digital realm. My journey from crunching numbers to coding apps is a testament to the fact that with passion, you can chart your own path in the tech world, no matter where you started.
 
 About Me
