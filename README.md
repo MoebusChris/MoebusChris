@@ -3,20 +3,26 @@
 [![Gmail Badge](https://img.shields.io/badge/-subeomjeong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subeomjeong@gmail.com)](mailto:subeomjeong@gmail.com)
 
 
-## Hi, there 👋, 
-I'm subeom jeong, financial accounting professional + full stack developer. I'm passionate about AI / Cryptocurrency / App development.
+Embrace the Code: The Journey of a Finance Wizard Turned Full Stack Developer
+Hello there! 👋 I'm the person behind this GitHub profile, straddling the worlds of finance and coding with equal fervor. By day, I navigate the complexities of multinational finance as an assistant manager, and by night, I transform into a full stack developer, exploring the endless possibilities of the digital realm. My journey from crunching numbers to coding apps is a testament to the fact that with passion, you can chart your own path in the tech world, no matter where you started.
 
-  - 🔭 I’m currently working on automation web application.
-  - 🌱 I’m currently teaching myself SwiftUI.
-  - 💬 Ask me how to pay less taxes.
+About Me
+As a finance assistant manager at a multinational company, I've honed my analytical skills, attention to detail, and a keen understanding of complex systems. These very skills sparked my interest in coding, leading me down a path of self-discovery and constant learning in the tech sphere. What began as a hobby quickly grew into a passion for creating and solving problems through code, blending my financial expertise with the dynamic world of software development.
 
-<br>
-<br>
+Technologies I Use🕹
+JavaScript & TypeScript: My go-to languages for crafting interactive and dynamic user experiences.
+Python: The backbone of my backend development, enabling me to build robust applications with clean, readable code.
+Django: My framework of choice for rapid development and pragmatic design, perfectly complementing my Python projects.
+SvelteKit: Elevating my frontend projects with its innovative approach to building web applications.
+Docker: The cornerstone of my development process, ensuring consistency and efficiency across all my projects.
+Let's Connect✉️
+I'm always on the lookout for new challenges and collaborations. Whether you're interested in discussing the latest web development trends, exploring the intersection of finance and tech, or just want to say hi, feel free to reach out to me at subeomjeong@gmail.com. Let's make something amazing together!
 
-<h3 align="center">Languages and Tools:</h3>
-<br>
-<p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+What I'm Learning👨‍💻
+Currently, I'm diving into the world of Prompt Engineering. It's a fascinating journey as I explore how to effectively communicate with AI to generate creative and functional outputs. This learning curve is not just about understanding AI but also about enhancing my skills in structuring information and requests to achieve desired outcomes.
 
+Finance Meets Coding📊
+In my unique position, I've found incredible ways to blend financial strategies with coding projects. From developing financial forecasting tools with Python to implementing algorithmic trading strategies with JavaScript, my dual expertise allows me to approach problems with a multifaceted perspective, driving innovation at the intersection of finance and technology.
 <br>
 <br>
 
